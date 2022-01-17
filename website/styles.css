@@ -1,0 +1,55 @@
+
+.header-section {
+    background-image: url('/images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 800px;
+    padding: 5% 10% 5% 10%;
+ 
+  }
+
+  #header2{
+    margin-top: 15%;
+  }
+  .header2-textbox{
+      height: 50px ;
+      width: 300px;
+      margin: 10px;
+     
+  }
+ .categories {
+  padding: 5% 10% 5% 10%;
+ }
+ .card-img-top {
+  height: 150px ;
+  width: 300px;
+  
+ }
+
+ .card-body{
+   background-color: rgb(221, 220, 220) ;
+ }
+ .card :hover{
+  background-color: #dc3545;
+  color: #eee;
+}
+
+#search-div{
+  background-color: #dc3545; 
+    
+}
+
+#Search{
+  background-color: #eee;
+}
+
+.list-group  :hover{
+  color: #dc3545;
+  font-weight: bold;
+  text-decoration: underline;
+ 
+}
+.signup-warp{
+  background-color: #dc3545; 
+  color: #eee;
+}
